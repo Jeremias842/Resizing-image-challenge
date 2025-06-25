@@ -1,0 +1,10 @@
+img{width:100px; 
+transition: transform 0.3s ease;
+cursor: pointer;}
+body{margin:0;
+height:100vh;
+display:flex;
+align-content: center;
+justify-content: center;
+align-items: center;
+flex-direction:column;}
